@@ -74,6 +74,7 @@
     margin: 0 15px;
 }
 .chatWindow--inputarea{
+    
     flex: 1;
 }
 .chatWindow--input{
@@ -94,7 +95,7 @@
 }
 aside.emoji-picker-react{
     width: auto;
-    background: none;
+    background: transparent;
 }
 .emoji-picker-react .emoji-group:before{
     background: none;
